@@ -60,3 +60,9 @@ Built with the browser's [WebGL](https://developer.mozilla.org/en-US/docs/Web/AP
 ## License
 
 [MIT](LICENSE).
+
+## Sponsors
+
+<!-- sponsors:start -->
+No sponsors yet. [Sponsor on GitHub](https://github.com/sponsors/baney75) and your name appears here automatically.
+<!-- sponsors:end -->
