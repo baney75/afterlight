@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-07",
+  "problems": [
+    "agents: UI repo missing DESIGN.md",
+    "readme: README has no ## Install (or Get started/Quick start) heading",
+    "readme: README has no badges row (public repo with CI)",
+    "readme: README's opening doesn't say what the GitHub description says"
+  ]
+}
